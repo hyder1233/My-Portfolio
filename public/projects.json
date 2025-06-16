@@ -1,0 +1,84 @@
+[
+  
+    {
+      "id": 1,
+      "title": "BIDUA - Multi Service Platform",
+      "category": "Next.js, TypeScript, Tailwind CSS, NestJs, MongoDB",
+      "gitUrl":"https://github.com/hyder1233/BIDUA-Multi-Service-Platform",
+      "liveUrl":"https://bidua.netlify.app",
+      "image": "images/Bidua Industries.png"
+    },
+    {
+      "id": 2,
+      "title": "Hednor-E-Commerce Platform",
+      "category": "Next.js, TypeScript, Tailwind CSS, NestJs, MongoDB",
+      "gitUrl":"https://github.com/hyder1233/Hednor-E-Commerce-Platform",
+      "liveUrl":"https://www.hednor.com",
+      "image": "images/hednor.png"
+    },
+    {
+      "id": 3,
+      "title": "Skill Check - A Dynamic Online Course Selling Platform",
+      "category": "C#, ASP.NET Core MVC, HTML, Bootstrap, JS, SQL Server",
+      "gitUrl":"https://github.com/hyder1233/Skill-Check-A-Dynamic-Online-Course-Selling-Platform",
+      "liveUrl":"",
+      "image": "images/Online Course.png"
+    },
+    {
+      "id": 4,
+      "title": "Real Time Face Emotion Detection and Recognition",
+      "category": "Python, Stream lit, NumPy, OpenCV, Keras, TensorFlow",
+      "gitUrl":"https://github.com/hyder1233/Real-Time-Face-Emotion-Detection-and-Recognition",
+      "liveUrl":"",
+      "image": "images/Face Emotion.png"
+    },
+    {
+      "id": 5,
+      "title": "Shopping Cart App",
+      "category": "React Js, Redux, Tailwind CSS",
+      "gitUrl":"https://github.com/hyder1233/Shopping-Cart-App",
+      "liveUrl":"https://shopping-cart-app-five-beige.vercel.app",
+      "image": "images/Shopping Cart.png"
+    },
+    {
+      "id": 6,
+      "title": "Weather App",
+      "category": "HTML, CSS, JavaScript, API's",
+      "gitUrl":"https://github.com/hyder1233/Weather-App",
+      "liveUrl":"https://weather-app-xi-puce-55.vercel.app/",
+      "image": "images/Weather app.png"
+    },
+     {
+      "id": 7,
+      "title": "GitHub Profile Card",
+      "category": "HTML, CSS, JavaScript",
+      "gitUrl":"https://github.com/hyder1233/DevDetective-GitHubProfileCard",
+      "liveUrl":"https://dev-detective-git-hub-profile-card.vercel.app",
+      "image": "images/GitHubProfileCard.png"
+    },
+    {
+      "id": 8,
+      "title": "Razorpay Clone",
+      "category": "HTML, TailwindCSS",
+      "gitUrl":"https://github.com/hyder1233/Razorpay-Clone",
+      "liveUrl":"https://razorpay-clone-alpha1.netlify.app",
+      "image": "images/Razorpay clone.png"
+    },
+    {
+      "id": 9,
+      "title": "Top-Courses",
+      "category": "React Js, useEffect Hook, Tailwind CSS",
+      "gitUrl":"https://github.com/hyder1233/Top-Courses",
+      "liveUrl":"https://top-courses-reactjs-use-effect-hook.netlify.app",
+      "image": "images/Top courses app.png"
+    },
+    {
+      "id": 10,
+      "title": "My Portfolio",
+      "category": "React Js",
+      "gitUrl":"https://github.com/hyder1233/My-Portfolio",
+      "liveUrl":"",
+      "image": "images/My Portfolio.png"
+    }
+  ]
+  
