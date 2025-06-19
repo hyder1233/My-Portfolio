@@ -39,7 +39,7 @@ const About = () => {
           <div className="text-info">
             <p>
               I am a Full Stack developer specializing in building high-performance, user-focused web applications. Skilled in
-              ReactJS, NextJS, NestJS, Tailwind CSS and an expert in RESTful API, MS SQL and MongoDB
+              ReactJS, NextJS, NestJS, Tailwind CSS and an expert in RESTful API, MongoDB and SQL
             </p>
           </div>
           <div className="text-btn">
