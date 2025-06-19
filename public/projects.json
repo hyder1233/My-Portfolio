@@ -75,9 +75,9 @@
     {
       "id": 10,
       "title": "My Portfolio",
-      "category": "React Js",
+      "category": "HTML, CSS, JavaScript, React Js, Vite, Netlify",
       "gitUrl":"https://github.com/hyder1233/My-Portfolio",
-      "liveUrl":"",
+      "liveUrl":"https://myportfolio-alpha.netlify.app",
       "image": "images/My Portfolio.png"
     }
   ]
