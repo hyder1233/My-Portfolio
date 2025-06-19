@@ -29,11 +29,8 @@ const Resume = () => {
           <div className="skill-box"><i className="devicon-nextjs-original"></i><span>Next JS</span></div>
           <div className="skill-box"><i className="devicon-nodejs-plain colored"></i><span>Nest JS</span></div>
           <div className="skill-box"><i className="devicon-tailwindcss-plain colored"></i><span>Tailwind CSS</span></div>
-          <div className="skill-box"><i className="devicon-bootstrap-plain colored"></i><span>Bootstrap</span></div>
-          <div className="skill-box"><i className="devicon-html5-plain colored"></i><span>HTML5</span></div>
-          <div className="skill-box"><i className="devicon-css3-plain colored"></i><span>CSS3</span></div>
           <div className="skill-box"><i className="devicon-git-plain colored"></i><span>Git</span></div>
-          <div className="skill-box"><i className="devicon-graphql-plain colored"></i><span>GraphQL API</span></div>
+          <div className="skill-box"><i className="devicon-graphql-plain colored"></i><span>RESTful API</span></div>
           <div className="skill-box"><i className="devicon-mongodb-plain colored"></i><span>MongoDB</span></div>
           <div className="skill-box"><i className="devicon-mysql-plain colored"></i><span>SQL</span></div>
           <div className="skill-box"><i className="devicon-dotnetcore-plain colored"></i><span>ASP.NET Core</span></div>

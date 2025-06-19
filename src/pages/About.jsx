@@ -29,7 +29,7 @@ const About = () => {
           </div>
           <p className="featured-name">
             <ReactTypingEffect
-              text={['Full Stack Developer', 'Coder', 'Quick Learner']}
+              text={['Full Stack Developer',' Coder',' Quick Learner']}
               speed={200}
               eraseSpeed={100}
               eraseDelay={1500}
