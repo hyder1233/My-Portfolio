@@ -46,7 +46,7 @@ const About = () => {
             <Link to="/contact">
               <button className="btn hire-btn">Hire me</button>
             </Link>
-            <button className="btn" onClick={() => handleDownload('https://drive.google.com/file/d/1dSRyHw6xKQQwVSlJ00RABZbp8bWFY-7x/view?usp=drive_link')}>Download CV <i className="uil uil-file"></i></button>
+            <button className="btn" onClick={() => handleDownload('https://drive.google.com/file/d/14D_aN1VIza1G5F5udfJwN848OozgmYVF/view?usp=drive_link')}>Download CV <i className="uil uil-file"></i></button>
           </div>
           <div className="social-icons">
             <div className="icon-circle"></div>

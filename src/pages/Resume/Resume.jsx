@@ -53,7 +53,7 @@ const Resume = () => {
             date="Dec 2024 – May 2025"
             description={
               <>
-                Worked on a multi-division web platform using <strong>Next.js</strong>, <strong>NestJS</strong>, and <strong>MongoDB</strong> with a secure admin panel. <br />
+                Built a multi-division platform with the team using <strong>Next.js</strong>, <strong>NestJS</strong>, and <strong>MongoDB</strong> with a secure admin panel. <br />
                 Developed scalable <strong>RESTful APIs</strong> and integrated dynamic content to create a <strong>responsive</strong> and <strong>SEO-friendly</strong> frontend using <strong>Tailwind CSS</strong>.
               </>
             }
